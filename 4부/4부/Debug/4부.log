@@ -1,0 +1,12 @@
+﻿  3.cpp
+C:\Users\jinse\source\repos\4부\4부\3.cpp(11,33): error C2664: 'void print_noSpace(char [])': 인수 1을(를) 'const char [15]'에서 'char []'(으)로 변환할 수 없습니다.
+C:\Users\jinse\source\repos\4부\4부\3.cpp(11,16): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\jinse\source\repos\4부\4부\3.cpp(3,6): message : 'print_noSpace' 선언을 참조하십시오.
+C:\Users\jinse\source\repos\4부\4부\3.cpp(12,40): error C2664: 'void print_noSpace(char [])': 인수 1을(를) 'const char [22]'에서 'char []'(으)로 변환할 수 없습니다.
+C:\Users\jinse\source\repos\4부\4부\3.cpp(12,16): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\jinse\source\repos\4부\4부\3.cpp(3,6): message : 'print_noSpace' 선언을 참조하십시오.
+  4.cpp
+  소스.cpp
+C:\Users\jinse\source\repos\4부\4부\소스.cpp(4,15): error C2106: '=': 왼쪽 피연산자는 l-value이어야 합니다.
+  소스1.cpp
+  코드를 생성하고 있습니다...
